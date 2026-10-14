@@ -2,7 +2,7 @@
 
   <!-- Header Typing Animation -->
   <a href="https://dferdiantn.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=3000&pause=1200&color=E6C687&center=true&vCenter=true&width=750&lines=PELEBURAN+PHYSIS+%26+TECHNE;CRAFTING+DIGITAL+MONUMENTS;FULL-STACK+•+SECURITY+•+3D+WEB;EXPLORE%3A+DFERDIANTN.VERCEL.APP" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=3000&pause=1200&color=E6C687&center=true&vCenter=true&width=750&lines=PELEBURAN+PHYSIS+%2526+TECHNE;CRAFTING+DIGITAL+MONUMENTS;FULL-STACK+%7C+SECURITY+%7C+3D+WEB;EXPLORE%3A+DFERDIANTN.VERCEL.APP" alt="Typing Banner" />
   </a>
 
   <p align="center">
@@ -87,7 +87,7 @@
     <tr>
       <td width="50%" align="center" valign="middle">
         <a href="https://github.com/dferdiantnn">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dferdiantnn&show_icons=true&bg_color=0a0a0a&title_color=e6c687&text_color=a1a1aa&icon_color=d4af37&border_color=262626&border_radius=10&locale=en" alt="GitHub Stats" />
+          <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dferdiantnn&show_icons=true&hide_rank=true&bg_color=0a0a0a&title_color=e6c687&text_color=a1a1aa&icon_color=d4af37&border_color=262626&border_radius=10&locale=en" alt="GitHub Stats" />
         </a>
       </td>
       <td width="50%" align="center" valign="middle">
