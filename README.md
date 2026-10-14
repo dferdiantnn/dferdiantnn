@@ -2,7 +2,7 @@
 
   <!-- Header Typing Animation -->
   <a href="https://dferdiantn.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=3000&pause=1200&color=E6C687&center=true&vCenter=true&width=750&lines=PELEBURAN+PHYSIS+%2526+TECHNE;CRAFTING+DIGITAL+MONUMENTS;FULL-STACK+%7C+SECURITY+%7C+3D+WEB;EXPLORE%3A+DFERDIANTN.VERCEL.APP" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=28&duration=3000&pause=1200&color=E6C687&center=true&vCenter=true&width=750&lines=PELEBURAN+PHYSIS+%26+TECHNE;CRAFTING+DIGITAL+MONUMENTS;FULL-STACK+%7C+SECURITY+%7C+3D+WEB;EXPLORE%3A+DFERDIANTN.VERCEL.APP" alt="Typing Banner" />
   </a>
 
   <p align="center">
