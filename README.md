@@ -13,11 +13,14 @@
     <a href="https://dferdiantn.vercel.app">
       <img src="https://img.shields.io/badge/🏛️_MONUMENT-dferdiantn.vercel.app-141414?style=for-the-badge&logoColor=E6C687&labelColor=0A0A0A&color=D4AF37" alt="Website" />
     </a>
+    <a href="https://studio.tripo3d.ai/?utm_source=creator_invite&utm_medium=linkcopy&utm_campaign=WZ2S0P&utm_content=2251799815703686">
+      <img src="https://img.shields.io/badge/🔮_3D_AI_STUDIO-TRIPO_3D_(PARTNER)-141414?style=for-the-badge&logoColor=E6C687&labelColor=0A0A0A&color=D4AF37" alt="Tripo 3D Partner" />
+    </a>
+    <a href="https://t.me/exnart">
+      <img src="https://img.shields.io/badge/✈️_TELEGRAM-@exnart-141414?style=for-the-badge&logoColor=E6C687&labelColor=0A0A0A&color=D4AF37" alt="Telegram" />
+    </a>
     <a href="mailto:dferdiantn@gmail.com">
       <img src="https://img.shields.io/badge/✉️_CONTACT-dferdiantn%40gmail.com-141414?style=for-the-badge&logoColor=E6C687&labelColor=0A0A0A&color=D4AF37" alt="Email" />
-    </a>
-    <a href="https://github.com/dferdiantnn">
-      <img src="https://img.shields.io/badge/⚡_STATUS-ACTIVE_BUILDING-141414?style=for-the-badge&logoColor=E6C687&labelColor=0A0A0A&color=D4AF37" alt="Status" />
     </a>
   </p>
 
@@ -115,6 +118,7 @@
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :---: |
 | 🏛️ **Peleburan Physis & Techne** | Interactive 3D museum blending ancient Greek marble sculptures with cybernetic techne, real-time lighting & soundscapes. | `Next.js 15` `Three.js` `GLTF meshopt` `Tailwind` | [Live Site ↗](https://dferdiantn.vercel.app) |
+| 🔮 **Tripo 3D AI Studio** | Neural 2D-to-3D generation engine powering web sculptures. Official partner access with extra free generation credits & benefits. | `Generative AI` `Meshopt` `GLTF 3D` | [Claim Credits ↗](https://studio.tripo3d.ai/?utm_source=creator_invite&utm_medium=linkcopy&utm_campaign=WZ2S0P&utm_content=2251799815703686) |
 | 🛡️ **Reverse Engineering & Security** | Exploration into binary analysis, protocol interception, and anti-detect browsing frameworks. | `Python` `Camoufox` `Wireshark` `Puppeteer` | [Explore ↗](https://github.com/dferdiantnn?tab=repositories) |
 | ⛵ **Noah Automation Suite** | Specialized Telegram & Instagram automation pipelines, stream broadcasters, and bot controllers. | `TypeScript` `Node.js` `Async I/O` | [Explore ↗](https://github.com/dferdiantnn?tab=repositories) |
 
